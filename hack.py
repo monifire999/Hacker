@@ -113,3 +113,6 @@ if e == "4":
 	print("")
 	print(f"\033[1;96mUsername : {id}")
 	print("Password : " + str(random.randint(100000,900000)))
+
+else:
+   print("\033[1;92mError")
